@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-<h1 align="center">Hi 👋, I'm Nguyen The Vinh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
+<h1 align="center">Hi👋, I'm Nguyen The Vinh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="450">
 <h3 align="left">A passionate frontend developer from Vietnam</h3>
 
